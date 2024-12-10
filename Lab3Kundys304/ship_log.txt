@@ -1,1 +1,50 @@
-
+Ship created.
+Displayed ship information.
+Engine started.
+Frigate is sailing.
+Frigate fired cannons.
+Frigate launched missiles.
+Hull repaired.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Frigate is sailing.
+Frigate fired cannons.
+Frigate launched missiles.
+Hull repaired.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Frigate is sailing.
+Frigate fired cannons.
+Frigate launched missiles.
+Hull repaired.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Frigate is sailing.
+Frigate fired cannons.
+Frigate launched missiles.
+Hull repaired.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Frigate is sailing.
+Frigate fired cannons.
+Frigate launched missiles.
+Hull repaired.
+Engine stopped.
+Checked ship status.
+Ship log closed.
