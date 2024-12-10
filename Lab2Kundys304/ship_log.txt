@@ -1,1 +1,75 @@
-
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Checked ship status.
+Ship log closed.
+Ship created.
+Displayed ship information.
+Engine started.
+Sail raised.
+Sail lowered.
+Hull repaired.
+Displayed ship information.
+Engine stopped.
+Checked ship status.
+Ship log closed.
